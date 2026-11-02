@@ -23,9 +23,7 @@ Jupyter Notebook
 Данные
 
 Основной датасет dst-3.0_16_1_hh_database.csv имеет размер около 434 МБ и не хранится в GitHub.
-
-Скачать датасет с Google Диска - [
-](https://drive.google.com/file/d/1gPhhmIn1NnFMgrCvdQJYL4o_SNCCAyCD/view?usp=sharing)
+[Скачать датасет с Google Диска](https://drive.google.com/file/d/1gPhhmIn1NnFMgrCvdQJYL4o_SNCCAyCD/view?usp=sharing)
 Дополнительный файл ExchangeRates.csv находится в репозитории.
 
 Для воспроизведения анализа скачайте основной датасет и разместите его в папке sessionnoe/data/.
